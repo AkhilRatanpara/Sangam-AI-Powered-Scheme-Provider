@@ -27,7 +27,7 @@ Other APIs: Government open data APIs for schemes and services
 bash
 Copy
 Edit
-git clone https://github.com/sharadpatel1807/scheme-provider.git
+git clone https://github.com/AkhilRatanpara/Sangam-AI-Powered-Scheme-Provider.git
 cd Sangam
 2️⃣ Install dependencies:
 
